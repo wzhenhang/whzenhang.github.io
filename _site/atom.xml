@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>不惘则刚</title>
+ <link href="http://localhost:4000" rel="self"/>
+ <link href="http://localhost:4000"/>
+ <updated>2018-04-08T23:51:17+08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>bluestorm</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
